@@ -1,5 +1,4 @@
-{
-  "version": "1.3.0",
-  "core_url": "https://raw.githubusercontent.com/DevSloPo/Oinxer/refs/heads/main/oinxer_core_1.3.0.zip",
-  "changelog": "Oinxer v1.3.0：引入 Luraph 三常量池(b/e/C)与空操作指令群，防拖库能力大幅增强。把 core_url 换成你自己的托管地址后即可生效。"
+"version": "1.3.1.1",
+  "core_url": "https://raw.githubusercontent.com/DevSloPo/Oinxer/refs/heads/main/oinxer_core_1.3.1.1.zip",
+  "changelog": "v1.3.1.1 新增压缩模式开关: 源码>=250KB自动启用(可改阈值/强制开关)。压缩模式=体积优先(诱饵不落盘/置换共享池/指令变长编码); 关闭=强度优先。XKHUB 248KB(关) / 130KB(开), DOORS 727KB(自动开)"
 }
